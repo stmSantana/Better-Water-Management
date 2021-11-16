@@ -6,6 +6,7 @@
                             "Turkish" : "Boþ",
                             "Polish" : "Pusta",
                             "French (France)" : "Vide"
+                            "Japanese" : "空",
     },
     "GAMEPLAY_BWM_Lost" : {
                             "English" : "Lost",
@@ -14,6 +15,7 @@
                             "Turkish" : "Kayýp",
                             "Polish" : "Zgubiona",
                             "French (France)" : "Perdu"
+                            "Japanese" : "失われた",
     },
     "GAMEPLAY_BWM_NoCapacityAvailable" : {
                             "English" : "No bottles with remaining capacity available",
@@ -22,6 +24,7 @@
                             "Turkish" : "Boþ þiþe kalmadý veya yeterli deðil",
                             "Polish" : "Brak pustych butelek o odpowiedniej pojemności",
                             "French (France)" : "Toutes vos bouteilles sont déjà pleines."
+                            "Japanese" : "空きのあるボトルはありません",
     },
     "GAMEPLAY_BWM_AlreadyFull" : {
                             "English" : "Already Full",
@@ -29,6 +32,7 @@
                             "Russian" : "Емкость уже полна",
                             "Polish" : "Butelka pełna",
                             "French (France)" : "Déjà plein."
+                            "Japanese" : "既に容器が一杯です",
     },
     "GAMEPLAY_Waterskin" : {
                             "English" : "Waterskin",
@@ -36,6 +40,7 @@
                             "Russian" : "Бурдюк",
                             "Polish" : "Bukłak",
                             "French (France)" : "Outre"
+                            "Japanese" : "革製水筒",
     },
     "GAMEPLAY_WaterskinDescription" : {
                             "English" : "A simple waterskin made from rabbit pelts. Holds up to 3 liters (102 oz).",
@@ -43,6 +48,7 @@
                             "Russian" : "Простой бурдюк из кроличьих шкур. Емкость составляет три литра.",
                             "Polish" : "Prosty bukłak z zajęczych skórek. Możesz przechować w nim do 3 litrów wody.",
                             "French (France)" : "Une simple outre fabriquée à partir de peaux de lapin. Elle peut contenir jusqu'à 3 litres (102 oz)."
+                            "Japanese" : "ウサギの毛皮から作られたシンプルな革袋。容量3リットル。",
     },
     "GAMEPLAY_Cup" : {
                             "English" : "Metal Cup",
@@ -50,6 +56,7 @@
                             "Russian" : "Металлическая чашка",
                             "Polish" : "Metalowy kubek",
                             "French (France)" : "Tasse en métal"
+                            "Japanese" : "金属製カップ",
     },
     "GAMEPLAY_CupDescription" : {
                             "English" : "Old metal camping cup.",
@@ -57,6 +64,7 @@
                             "Russian" : "Старая металлическая чашка для кемпинга.",
                             "Polish" : "Stary metalowy kubek turystyczny",
                             "French (France)" : "Vieille tasse de camping en métal."
+                            "Japanese" : "昔ながらの金属製マグカップ",
     },
     "GAMEPLAY_MetalWaterBottle" : {
                             "English" : "Metal Water Bottle",
@@ -64,6 +72,7 @@
                             "Russian" : "Металлическая бутылка для воды",
                             "Polish" : "Metalowa butelka na wodę",
                             "French (France)" : "Gourde en métal"
+                            "Japanese" : "ステンレスボトル",
     },
     "GAMEPLAY_MetalWaterBottleDescription" : {
                             "English" : "A reusable water bottle. Ubiquitous in modern society. Holds 750mL (25 fl oz) of water.",
@@ -71,6 +80,7 @@
                             "Russian" : "Многоразовая бутылка для воды. Встречаться довольно часто в современном обществе. Емкость составляет 750 мл воды.",
                             "Polish" : "Metalowa butelka wielokrotnego użytku. Wszechobecna w nowoczesnym społeczeństwie. Możesz przechować w niej do 750 ml wody.",
                             "French (France)" : "Une bouteille d'eau réutilisable. Omniprésente dans la société moderne. Contient 750 ml (25 fl oz) d'eau."
+                            "Japanese" : "現代社会でどこにでもある、使い捨てではない水筒。容量750ml。",
     },
     "GAMEPLAY_BWM_FillBottle" : {
                             "English" : "Fill",
@@ -78,6 +88,7 @@
                             "Russian" : "Набрать.",
                             "Polish" : "Napełnij",
                             "French (France)" : "Remplir"
+                            "Japanese" : "満たす",
     },
     "GAMEPLAY_BWM_TransferBottle" : {
                             "English" : "Transfer",
@@ -85,6 +96,7 @@
                             "Russian" : "Перелить.",
                             "Polish" : "Przelej",
                             "French (France)" : "Transférer"
+                            "Japanese" : "移す",
     },
     "GAMEPLAY_BWM_DumpBottle" : {
                             "English" : "Dump",
@@ -92,6 +104,7 @@
                             "Russian" : "Вылить.",
                             "Polish" : "Wylej",
                             "French (France)" : "Vider"
+                            "Japanese" : "捨てる",
     },
     "GAMEPLAY_BWM_FillingProgress" : {
                             "English" : "Filling...",
@@ -99,6 +112,7 @@
                             "Russian" : "Набираю...",
                             "Polish" : "Napełnianie...",
                             "French (France)" : "Remplissage..."
+                            "Japanese" : "容器を一杯にしています...",
     },
     "GAMEPLAY_BWM_TransferingProgress" : {
                             "English" : "Transfering...",
@@ -106,6 +120,7 @@
                             "Russian" : "Переливаю...",
                             "Polish" : "Przelewanie...",
                             "French (France)" : "Transfert..."
+                            "Japanese" : "他の容器に移しています...",
     },
     "GAMEPLAY_BWM_DumpingProgress" : {
                             "English" : "Dumping...",
@@ -113,13 +128,15 @@
                             "Russian" : "Выливаю...",
                             "Polish" : "Wylewanie...",
                             "French (France)" : "Vidange..."
+                            "Japanese" : "水を捨てています...",
     },
     "GAMEPLAY_RandomWaterBottle" : {
                             "English" : "Random Water Bottle",
                             "German": "Beliebige Wasserflasche"
+                            "Japanese" : "ランダムな水筒",
     },
     "GAMEPLAY_RandomWaterBottleDescription" : {
-                            "English" : "A random water bottle.",
+                            "English" : "ランダムな水筒です。",
                             "German": "Eine beliebige Wasserflasche."
     }
 }
